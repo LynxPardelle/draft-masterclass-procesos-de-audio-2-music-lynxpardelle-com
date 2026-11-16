@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "masterclass-procesos-de-audio-2.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Procesos de audio II: modulación y utilidades | Lynx Pardelle",
+    "description": "Explora cómo dar movimiento a un sonido con filtros, paneo y efectos de modulación. Aprende a ajustar el nivel y la imagen estéreo para escuchar qué aporta cada proceso.",
+    "canonical": "https://masterclass-procesos-de-audio-2.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-masterclass-grabacion-voz.webp"
+    }
+  }
+}
