@@ -7,12 +7,63 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "Procesos de audio II: modulación y utilidades | Lynx Pardelle",
-    "description": "Explora cómo dar movimiento a un sonido con filtros, paneo y efectos de modulación. Aprende a ajustar el nivel y la imagen estéreo para escuchar qué aporta cada proceso.",
+    "title": "Masterclass de modulación y procesos de audio II | Lynx Pardelle",
+    "description": "Aprende a usar Auto Filter, Auto Pan, Utility, phaser, flanger y chorus para ajustar movimiento, timbre e imagen estéreo en una pista.",
     "canonical": "https://masterclass-procesos-de-audio-2.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-procesos-de-audio-2-r2-e60f04a5a6db1998.webp",
+      "title": "Masterclass de modulación y procesos de audio II | Lynx Pardelle",
+      "description": "Aprende a usar Auto Filter, Auto Pan, Utility, phaser, flanger y chorus para ajustar movimiento, timbre e imagen estéreo en una pista.",
+      "url": "https://masterclass-procesos-de-audio-2.music.lynxpardelle.com/",
+      "imageAlt": "Pedales de modulación y señal en un osciloscopio."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Masterclass de modulación y procesos de audio II | Lynx Pardelle",
+      "description": "Aprende a usar Auto Filter, Auto Pan, Utility, phaser, flanger y chorus para ajustar movimiento, timbre e imagen estéreo en una pista.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-procesos-de-audio-2-r2-e60f04a5a6db1998.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://masterclass-procesos-de-audio-2.music.lynxpardelle.com/#webpage",
+        "name": "Procesos de audio II: modulación y utilidades",
+        "description": "Aprende a usar Auto Filter, Auto Pan, Utility, phaser, flanger y chorus para ajustar movimiento, timbre e imagen estéreo en una pista.",
+        "url": "https://masterclass-procesos-de-audio-2.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Masterclasses",
+          "url": "https://music.lynxpardelle.com/formacion/masterclasses"
+        },
+        "mainEntity": {
+          "@id": "https://masterclass-procesos-de-audio-2.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "@id": "https://masterclass-procesos-de-audio-2.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Procesos de audio II: modulación y utilidades",
+        "description": "Aprende a usar Auto Filter, Auto Pan, Utility, phaser, flanger y chorus para ajustar movimiento, timbre e imagen estéreo en una pista.",
+        "url": "https://masterclass-procesos-de-audio-2.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-procesos-de-audio-2-r2-e60f04a5a6db1998.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "inLanguage": "es",
+        "offers": {
+          "@type": "Offer",
+          "name": "Una inscripción",
+          "url": "https://masterclass-procesos-de-audio-2.music.lynxpardelle.com/#precios",
+          "price": 1750,
+          "priceCurrency": "MXN"
+        }
+      }
+    ]
   }
 }
